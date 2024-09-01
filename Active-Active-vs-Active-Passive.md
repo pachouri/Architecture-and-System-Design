@@ -8,3 +8,5 @@ Load Balancer: Distributes client requests, primarily routing them to Server 1 (
 Server 1 (Active): The main server handles requests and interacts with the shared database.
 Server 2 (Passive): The standby server, ready to take over if Server 1 fails.
 Failover Mechanism: If Server 1 fails, Server 2 becomes active, ensuring continued service.
+
+![alt text](https://github.com/pachouri/Architecture-and-System-Design/blob/main/diagram/Active_Active.gif?raw=true)
