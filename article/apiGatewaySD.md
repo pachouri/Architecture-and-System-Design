@@ -1,5 +1,6 @@
 <h2>API Gateway System Design</h2>
-(https://github.com/pachouri/Architecture-and-System-Design/blob/main/diagram/APIGatewaySystemDesing.gif?raw=true)
+
+![alt text](https://github.com/pachouri/Architecture-and-System-Design/blob/main/diagram/APIGatewaySystemDesing.gif?raw=true)
 
 <b>1. Client Request</b> <br>
 Step: Clients (mobile apps, web applications, etc.) send API requests.
