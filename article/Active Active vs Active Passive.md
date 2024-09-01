@@ -1,3 +1,5 @@
+<h2> Active-Active vs Active-Passive</h2>
+
 <b>Active-Active</b>
 Load Balancer: Distributes client requests between Server 1 and Server 2.
 Server 1 and Server 2: Both servers are active, handling requests and replicating data to the shared database.
