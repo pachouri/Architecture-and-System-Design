@@ -1,7 +1,8 @@
 # Layer4 vs Layer7 Load balancer
 
-**Layer 4 Load Balancer (Transport Layer)**
 
+![alt text](https://github.com/pachouri/Architecture-and-System-Design/blob/main/diagram/L4_VS_L7_LB.gif?raw=true)
+**Layer 4 Load Balancer (Transport Layer)**
 - **Operation**: Works at the transport layer, specifically at TCP (Transmission Control Protocol) or UDP (User Datagram Protocol) level.
 - **Routing**: It makes routing decisions based on IP addresses and ports. It doesn’t inspect the actual content of the packets beyond this information.
 - **Performance**: Generally faster than Layer 7 load balancers because it doesn't perform deep packet inspection (DPI) or interpret application-level data.
