@@ -8,9 +8,11 @@
  <b>System Design</b>
    <table>
         <tr><td>API Gateway</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/apiGatewaySD.md</td></tr>
+          <tr><td>Generative AI document summarization-GCP</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/WebSocketProtocol.md</td></tr>
   </table>
 
  <b>Technology</b>
    <table>
         <tr><td>Websocket</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/WebSocketProtocol.md</td></tr>
+       
   </table>
