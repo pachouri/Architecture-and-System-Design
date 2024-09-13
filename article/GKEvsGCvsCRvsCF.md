@@ -1,5 +1,5 @@
 # Compute Engine vs GKE vs Cloud Run vs Cloud Function
-
+![alt text](https://github.com/pachouri/Architecture-and-System-Design/blob/main/diagram/GCP-GCEvsGKEvsCRvsCF.gif?raw=true)
 **What are these services?**
 
 - Compute Engine - Virtual machines. You reserve a configuration of CPU, memory, disk, and GPUs, and decide what OS and additional software to run.
