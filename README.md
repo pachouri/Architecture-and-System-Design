@@ -8,6 +8,7 @@
  <b>System Design</b>
    <table>
         <tr><td>API Gateway</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/apiGatewaySD.md</td></tr>
+         <tr><td>Generative AI Document Summarization - GCP </td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/gen_ai_doc_sum_gcp.md</td></tr>
         
   </table>
 
