@@ -19,7 +19,7 @@ This solution deploys a pipeline that is triggered when you add a new PDF docume
 The following steps detail the request processing flow of the application. The steps in the flow are numbered as shown in the preceding architecture diagram.
 
 1. When the document is uploaded, it triggers a Cloud Run functions. This function runs the Extractive Question-Answering process.
-    1. The Cloud Run function uses Document AI Optical Character Recognition (OCR) to extract all text from the document.
-2. The Cloud Run function uses Vertex AI Gemini to extract all text from the PDF file.
-3. The Cloud Run function stores the textual summaries of PDFs inside a BigQuery table.
-4. The Cloud Run function stores the extracted text inside a Cloud Storage bucket.
+2.  1. The Cloud Run function uses Document AI Optical Character Recognition (OCR) to extract all text from the document.
+3. The Cloud Run function uses Vertex AI Gemini to extract all text from the PDF file.
+4. The Cloud Run function stores the textual summaries of PDFs inside a BigQuery table.
+5. The Cloud Run function stores the extracted text inside a Cloud Storage bucket.
