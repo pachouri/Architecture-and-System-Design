@@ -9,6 +9,7 @@
    <table>
         <tr><td>API Gateway</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/apiGatewaySD.md</td></tr>
          <tr><td>Generative AI Document Summarization - GCP </td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/gen_ai_doc_sum_gcp.md</td></tr>
+         <tr><td>Database Caching strategies</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/DB_Caching_Strategies.md</td></tr>
         
   </table>
 
