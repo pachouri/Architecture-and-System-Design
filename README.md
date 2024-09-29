@@ -1,4 +1,4 @@
-# Architecture-and-System-Design
+![image](https://github.com/user-attachments/assets/41a971a5-6c5f-4015-9a1b-8966d28b8b32)# Architecture-and-System-Design
 
   <b>High Availability/Performance/Scalability</b>
    <table>
@@ -10,6 +10,7 @@
         <tr><td>API Gateway</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/apiGatewaySD.md</td></tr>
          <tr><td>Generative AI Document Summarization - GCP </td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/gen_ai_doc_sum_gcp.md</td></tr>
          <tr><td>Database Caching strategies</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/DB_Caching_Strategies.md</td></tr>
+          <tr><td>Data Lake Modernization with Kafka </td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/Data_Lake_Modernization_with_Kafka.md</td></td></tr>
         
   </table>
 
