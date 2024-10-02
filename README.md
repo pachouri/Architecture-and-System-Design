@@ -18,4 +18,5 @@
    <table>
         <tr><td>Websocket</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/WebSocketProtocol.md</td></tr>
         <tr><td>GKE vs GC vs CR vs GF - GCP</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/GKEvsGCvsCRvsCF.md</td></tr>
+       <tr><td>APIGEE Standard Policy</td><td>https://github.com/pachouri/Architecture-and-System-Design/blob/main/article/Apigee_Standard_Policy.md</td></tr>
    </table>
