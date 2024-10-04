@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41a971a5-6c5f-4015-9a1b-8966d28b8b32)# Architecture-and-System-Design
+
 
   <b>High Availability/Performance/Scalability</b>
    <table>
